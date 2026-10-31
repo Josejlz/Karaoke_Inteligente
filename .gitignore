@@ -1,0 +1,25 @@
+# Entornos virtuales
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Modelo de voz de Vosk (~40 MB; se baja con descargar_modelo.py)
+models/
+
+# Base de datos local (se crea sola al abrir el programa)
+CANCIONES.db
+*.db-journal
+
+# Compilación de Android (Buildozer)
+.buildozer/
+bin/
+*.apk
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
