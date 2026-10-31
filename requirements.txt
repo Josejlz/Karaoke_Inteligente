@@ -1,0 +1,5 @@
+# Windows / Linux / Mac  (Python 3.10 - 3.12 recomendado)
+kivy>=2.3.0
+vosk>=0.3.45
+sounddevice>=0.4.6
+numpy>=1.24

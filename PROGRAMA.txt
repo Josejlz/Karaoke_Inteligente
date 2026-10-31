@@ -1,0 +1,6 @@
+# Programa del cantante: un nombre por linea, en el orden planeado.
+# (Las lineas que empiezan con # se ignoran. El numero al inicio es opcional.)
+1. Noche estrellada
+2. Mi pueblo bonito
+3. Cafe de la esquina
+4. Barquito de papel
